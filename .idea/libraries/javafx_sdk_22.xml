@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-22">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22" />
+      <root url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Chalmers/Design/javafx-sdk-22" recursive="false" type="SOURCES" />
+  </library>
+</component>
